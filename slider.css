@@ -1,0 +1,14 @@
+#carouselExampleIndicators {
+  position: relative;
+  width: 800px!important;
+  overflow: hidden;
+}
+.carousel-item {
+  width: 200pc;
+  height: 300px;
+}
+.carousel-item img {
+  object-fit: cover;
+  width: 200pc;
+  height: 300px;
+}
